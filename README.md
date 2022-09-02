@@ -1,6 +1,7 @@
 ## Hi there! 👋
 ###  My name is Daniel! 👀
-#### I'm passionate IOS developer from Poland. 🥷🏽
+##### I am a highly organized and hardworking person looking for my first responsible position in a reputable company as iOS developer to gain practical experience. I always open to new opportunities! 🚀
+
 
 ---
   
