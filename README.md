@@ -19,6 +19,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="XCode" alt="XCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/foundation/foundation-original-wordmark.svg" title="Foundation" alt="Foundation" width="40" height="40"/>&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/7774181?s=200&v=4" title="Alamofire" alt="Alamofire" width="40" height="40"/>&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/7575099?s=200&v=4" title="Realm" alt="Realm" width="40" height="40"/>&nbsp;
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_json_official_icon_130502.png" title="Json" alt="Json" width="40" height="40"/>&nbsp;
 </div>
   
