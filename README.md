@@ -28,7 +28,7 @@
   ---
   
   
-  ### 📫 Connect with me:
+  ### 📫 How to reach me:
 <div id="badges">
   <a href="https://www.linkedin.com/in/auhustsinovich-d/">
     <img width="145px" height="40" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="Instagramm Badge"/>
